@@ -14,5 +14,3 @@ I work across **machine learning** — applying it to problems ranging from RF s
 | [Twitch-Platform-Analysis](https://github.com/Athul084/Twitch-Platform-Analysis) | Graph Convolutional Network analysis of the Twitch social network |
 | [Machine-Learning](https://github.com/Athul084/Machine-Learning) | ML algorithms implemented from scratch and with popular libraries |
 | [Payroll-Management-System](https://github.com/Athul084/Payroll-Management-System) | Python/Tkinter payroll management application |
-
-📫 Reach me via GitHub.
