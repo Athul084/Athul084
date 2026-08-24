@@ -17,4 +17,3 @@ I work across **machine learning** and **RF/signal processing** — building thi
 | [Machine-Learning](https://github.com/Athul084/Machine-Learning) | ML algorithms implemented from scratch and with popular libraries |
 | [Payroll-Management-System](https://github.com/Athul084/Payroll-Management-System) | Python/Tkinter payroll management application |
 
-📫 Reach me via GitHub.
